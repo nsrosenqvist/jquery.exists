@@ -2,7 +2,7 @@
   "name": "@nsrosenqvist/jquery.exists",
   "title": "jQuery Exists",
   "description": "Simple jQuery plugin to test whether an element exists",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "jquery.exists.js",
   "homepage": "https://github.com/nsrosenqvist/jquery.exists/",
   "author": {
