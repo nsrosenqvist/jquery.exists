@@ -16,6 +16,10 @@ npm install @nsrosenqvist/jquery.exists
 $('.maybe-exists').exists(function() {
     $(this).addClass('definitely-exists');
 });
+
+if ($('.maybe-exists').exists()) {
+    alert('exists');
+}
 ```
 
 ## License
