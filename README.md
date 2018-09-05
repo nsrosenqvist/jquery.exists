@@ -7,7 +7,7 @@ the element.
 ## Installation
 
 ```bash
-npm install jquery.exists
+npm install @nsrosenqvist/jquery.exists
 ```
 
 ## Usage
